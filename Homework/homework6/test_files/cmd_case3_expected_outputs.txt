@@ -1,0 +1,22 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Connection: Close
+Content-Type: text/plain
+
+e
+processor	: 0
+
+19
+vendor_id	: GenuineIntel
+
+f
+cpu family	: 6
+
+c
+model		: 37
+
+37
+model name	: Intel(R) Xeon(R) CPU E5-2630 v3 @ 2.40GHz
+
+0
+
